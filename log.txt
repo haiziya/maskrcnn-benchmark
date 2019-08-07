@@ -5332,3 +5332,5 @@ TEST:
 2019-05-23 13:16:59,918 maskrcnn_benchmark.trainer INFO: eta: 2:08:49  iter: 5000  loss: 0.1262 (0.1600)  loss_classifier: 0.0070 (0.0112)  loss_box_reg: 0.0075 (0.0137)  loss_mask: 0.1049 (0.1279)  loss_objectness: 0.0003 (0.0021)  loss_rpn_box_reg: 0.0007 (0.0051)  time: 0.0797 (0.0814)  data: 0.0019 (0.0021)  lr: 0.060000  max mem: 780
 2019-05-23 13:16:59,919 maskrcnn_benchmark.utils.checkpoint INFO: Saving checkpoint to ./model_0005000.pth
 2019-05-23 13:17:01,588 maskrcnn_benchmark.trainer INFO: eta: 2:08:48  iter: 5020  loss: 0.1262 (0.1598)  loss_classifier: 0.0067 (0.0112)  loss_box_reg: 0.0098 (0.0137)  loss_mask: 0.1018 (0.1278)  loss_objectness: 0.0002 (0.0021)  loss_rpn_box_reg: 0.0007 (0.0051)  time: 0.0809 (0.0814)  data: 0.0020 (0.0021)  lr: 0.060000  max mem: 780
+
+Test
